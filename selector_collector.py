@@ -42,7 +42,7 @@ class Component:
     """
 
     name: str
-    typ: str
+    type: str
     css_rules: object
 
     def generate(self):
